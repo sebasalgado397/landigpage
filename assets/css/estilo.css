@@ -1,0 +1,211 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    
+}
+
+#barra_sup {
+    margin: auto;
+    margin-top: 20px;
+    width: 1000px;
+    height: 150px;
+}
+
+    #marca {
+        float: left;
+        width: 300px;
+        height: 150px;
+        background-color: rgb(185, 185, 185);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+}
+
+    #menu {
+        float: right;
+        width: 700px;
+        height: 150px;
+        background-color: rgb(231, 231, 231);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
+
+#carrusel {
+    margin: auto;
+    margin-top: 20px;
+    width: 1000px;
+    height: 450px;
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(240, 240, 240);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#idea {
+    margin: auto;
+    margin-top: 20px;
+    width: 1000px;
+    height: 600px;
+}
+    #imagen{
+        float: left;
+        width: 500px;
+        height: 600px;
+        background-color: rgb(139, 139, 139);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #cuentanos{
+        float: right;
+        width: 500px;
+        height: 600px;
+        background-color: rgb(204, 204, 204);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+#productos_top {
+    margin: auto;
+    margin-top: 20px;
+    width: 1000px;
+    height: 400px;
+    }
+
+    .producto_01 {
+        float: left;
+        width: 330px;
+        height: 400px;
+        background-color: rgb(204, 204, 204);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .producto_02 {
+        float: right;
+        
+        width: 330px;
+        height: 400px;
+        background-color: rgb(204, 204, 204);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .producto_03 {
+        display:inline-block;
+        width: 340px;
+        height: 400px;
+        background-color: rgb(161, 161, 161);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+#banner {
+    margin: auto;
+    margin-top: 20px;
+    width: 1000px;
+    height: 200px;
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(240, 240, 240);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+
+#categorias {
+    margin: auto;
+    margin-top: 20px;
+    width: 1000px;
+    height: 100px;
+    }
+    
+    .cocina {
+        float: left;
+        width: 330px;
+        height: 100px;
+        background-color: rgb(214, 214, 214);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .baño {
+        float: right;
+        width: 330px;
+        height: 100px;
+        background-color: rgb(214, 214, 214);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .jardin {
+        display:inline-block;
+        width: 340px;
+        height: 100px;
+        background-color: rgb(233, 233, 233);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        }
+
+#popular {
+    margin: auto;
+    margin-top: 20px;
+    width: 1000px;
+    height: 500px;
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(240, 240, 240);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#barra_inf {
+    margin: auto;
+    margin-top: 20px;
+    width: 1000px;
+    height: 300px;
+    }
+    
+    .contacto {
+        float: left;
+        width: 350px;
+        height: 300px;
+        background-color: rgb(214, 214, 214);
+        border: 1px solid rgb(0, 0, 0);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .rrss {
+        float: right;
+        width: 294px;
+        height: 300px;
+        background-color: rgb(214, 214, 214);
+        border: 1px solid rgb(0, 0, 0);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .info {
+        display:inline-block;
+        width: 350px;
+        height: 300px;
+        background-color: rgb(233, 233, 233);
+        border: 1px solid rgb(0, 0, 0);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        }
